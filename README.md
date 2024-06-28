@@ -33,4 +33,4 @@ It also uses Linear Probing Hashing and priority queue to find the most frequent
 - txt
 ## File Structure
 - src/: Contains the Java source code
-- resources/: txt file (e.g., Input1.txt)
+- resources/: txt file (e.g., Input1.txt) and png file that contains screenshot of sample inputs and outputs
